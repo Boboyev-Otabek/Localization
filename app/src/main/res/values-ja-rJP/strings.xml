@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ローカリゼーション</string>
+    <string name="str_uzbek">ウズベク語</string>
+    <string name="str_chines">中国語</string>
+    <string name="str_yapon">日本</string>
+    <string name="str_kores">韓国</string>
+
+    <plurals name="my_car">
+        <item quantity="one">私は持っている %s 車</item>
+        <item quantity="other">私は持っている %s 車</item>
+    </plurals>
+</resources>

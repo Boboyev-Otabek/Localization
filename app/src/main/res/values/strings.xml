@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Localization</string>
+    <string name="str_uzbek">Uzbek</string>
+    <string name="str_chines">Chinese</string>
+    <string name="str_yapon">Japanese</string>
+    <string name="str_kores">Korea</string>
+    
+    
+    <plurals name="my_car">
+        <item quantity="one">I have %s car</item>
+        <item quantity="other">I have %s cars</item>
+    </plurals>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Localization</string>
+    <string name="str_uzbek">O\'zbek tili</string>
+    <string name="str_chines">Xitoy tili</string>
+    <string name="str_yapon">Yapon tili</string>
+    <string name="str_kores">Kores tili</string>
+
+    <plurals name="my_car">
+        <item quantity="one">Mening %s mashinam bor</item>
+        <item quantity="other">Mening %s mashinalarim bor</item>
+    </plurals>
+
+</resources>
